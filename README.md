@@ -18,10 +18,10 @@ code reference: https://github.com/juji-io/cli-client
 
 # Usage:
 
-1a. run CSVtoDict_Converter.py to convert csv file (the csv of users' answers downloaded from juji platform) to json. (sample csv is provided)
+1a. run CSVtoDict_Converter.py to convert csv file (the csv of users' answers downloaded from juji platform) to json. (sample csv can be provided)
 
 or
 
-1b. run TranscripttoDict_Converter.py to convert original transcripts to json. (sample csv is provided)
+1b. run TranscripttoDict_Converter.py to convert original transcripts to json. (sample csv can be provided)
 
 2. run juji_tester.js
