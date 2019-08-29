@@ -17,7 +17,7 @@ program
 program.on('--help', function(){
     console.log('')
     console.log('Example:');
-    console.log('  juji_tester -f Mary https://juji.io/pre-chat/hanxu2017-3a27634/23 ./QA_dict.json');
+    console.log('  juji_tester https://juji.io/pre-chat/hanxu2017-3a27634/23 ./QA_dict.json');
 });
 
 program.parse(process.argv);
