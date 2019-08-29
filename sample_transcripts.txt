@@ -1,0 +1,230 @@
+[2019-05-03 23:35] Sam: Hello,  A!, thanks for connecting! My name is Sam, and I am here to chat with you to learn your team work experiences this semester.
+[2019-05-03 23:35] Sam: Let's start chatting from a set of open-ended questions regarding your team formation preferences.
+[2019-05-03 23:35] Sam: In a team project, what kind of role do you prefer to play? (e.g. leader, follower)
+[2019-05-03 23:36] A: Both leader and follower, depending on the situation
+[2019-05-03 23:36] Sam: Wow, I'm impressed. You seem very accomplished. 
+[2019-05-03 23:36] Sam: Can you tell me the reasons?
+[2019-05-03 23:37] A: I think it is important to sometimes take the lead, especially if your teammates are not willing to do so. But other times, I think it's important to follow the ideas of others and learn from them
+[2019-05-03 23:37] Sam: Okay
+[2019-05-03 23:37] Sam: What kind of individuals do you want to have
+[2019-05-03 23:37] Sam: on your project team?
+[2019-05-03 23:38] A: People who can clearly and maturely communicate with me/the team
+[2019-05-03 23:38] Sam: Ok
+[2019-05-03 23:38] Sam: Why do you think so?
+[2019-05-03 23:38] A: Because otherwise the team dynamic will be messy and not productive
+[2019-05-03 23:38] Sam: Thanks for letting me know.
+[2019-05-03 23:38] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-1, :questions [{:kind :single-choice, :choices [{:text Single Leadership, :value 0} {:text Shared Leadership, :value 1}], :heading What’s your leadership preference?, :wording What’s your leadership preference?, :required true, :qid user-defined-question-1, :context-var-name ?q}]}}
+[2019-05-03 23:38] A: [{:type Action, :gid user-defined-question-1, :question user-defined-question-1, :value 1, :text Shared Leadership}]
+[2019-05-03 23:38] Sam: [{:type Action, :gid user-defined-question-1, :question user-defined-question-1, :value 1, :text Shared Leadership}]
+[2019-05-03 23:38] Sam: Appreciate it.
+[2019-05-03 23:38] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-2, :questions [{:kind :single-choice, :choices [{:text Big-picture, :value 0} {:text Detail-oriented, :value 1}], :heading What’s your thinking style?, :wording What’s your thinking style?, :required true, :qid user-defined-question-2, :context-var-name ?q}]}}
+[2019-05-03 23:38] A: [{:type Action, :gid user-defined-question-2, :question user-defined-question-2, :value 1, :text Detail-oriented}]
+[2019-05-03 23:38] Sam: [{:type Action, :gid user-defined-question-2, :question user-defined-question-2, :value 1, :text Detail-oriented}]
+[2019-05-03 23:38] Sam: Really appreciate your input.
+[2019-05-03 23:38] Sam: What are in your skill set? (e.g. programming, UI design, teamwork); How do you rate your skills?
+[2019-05-03 23:39] A: programming - proficient, UI design - still learning but proficient, teamwork - still learning but proficient
+[2019-05-03 23:39] Sam: I see.
+[2019-05-03 23:39] Sam: Thank you for your response towards your team preferences! Let's chat more about your teamwork experiences!
+[2019-05-03 23:39] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-4, :questions [{:kind :single-choice, :choices [{:text 1, :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading How do you rate your overall team working experience?
+, :wording How do you rate your overall team working experience?
+, :required true, :qid user-defined-question-4, :context-var-name ?q}]}}
+[2019-05-03 23:40] A: [{:type Action, :gid user-defined-question-4, :question user-defined-question-4, :value 4, :text 5}]
+[2019-05-03 23:40] Sam: [{:type Action, :gid user-defined-question-4, :question user-defined-question-4, :value 4, :text 5}]
+[2019-05-03 23:40] Sam: Great, thanks!
+[2019-05-03 23:40] Sam: How will you describe your overall team experiences and how do you feel about it?
+[2019-05-03 23:40] A: I think that it was a good opportunity to work with other people who do not have the same ideas as me. It was interesting talking with them about the project and seeing what kind of contributions we were all bringing to the table
+[2019-05-03 23:40] Sam: How so?
+[2019-05-03 23:41] A: The idea itself was a result of working with this specific team - a team member suggested a House Plant Waterer and we were all on board, even if I would have never thought to do that on my own
+[2019-05-03 23:41] Sam: Ok. 
+[2019-05-03 23:41] Sam:  I hope I got your answer. Before moving on, anything else to add?
+[2019-05-03 23:41] A: No
+[2019-05-03 23:41] Sam: What kind of suggestions do you have to improve the teaming experience?
+[2019-05-03 23:42] A: I think having more time in class to meet with team members and discuss the project would have helped
+[2019-05-03 23:42] Sam: Got it. Thank you.
+[2019-05-03 23:42] Sam: Next, I am going to conduct a team perception survey, could you please give your self-evaluated ratings to the following statements on a 1-5 Likert scale (1 totally disagree to 5 totally agree). The whole survey has 7 dimensions. Thank you!
+[2019-05-03 23:42] Sam: The first dimension is about Psychological Safety. This is a 7-item survey.
+[2019-05-03 23:42] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-7, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 1. If you make a mistake on this team, it is often held against you., :wording 1. If you make a mistake on this team, it is often held against you., :required true, :qid user-defined-question-7, :context-var-name ?q}]}}
+[2019-05-03 23:42] A: [{:type Action, :gid user-defined-question-7, :question user-defined-question-7, :value 1, :text Disagree}]
+[2019-05-03 23:42] Sam: [{:type Action, :gid user-defined-question-7, :question user-defined-question-7, :value 1, :text Disagree}]
+[2019-05-03 23:42] Sam: Thank you very much.
+[2019-05-03 23:42] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-8, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 2. Members of this team are able to bring up problems and tough issues., :wording 2. Members of this team are able to bring up problems and tough issues., :required true, :qid user-defined-question-8, :context-var-name ?q}]}}
+[2019-05-03 23:42] A: [{:type Action, :gid user-defined-question-8, :question user-defined-question-8, :value 2, :text Neutral}]
+[2019-05-03 23:42] Sam: [{:type Action, :gid user-defined-question-8, :question user-defined-question-8, :value 2, :text Neutral}]
+[2019-05-03 23:42] Sam: Really appreciate your input.
+[2019-05-03 23:42] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-9, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 3. People on this team sometimes reject others for being different., :wording 3. People on this team sometimes reject others for being different., :required true, :qid user-defined-question-9, :context-var-name ?q}]}}
+[2019-05-03 23:42] A: [{:type Action, :gid user-defined-question-9, :question user-defined-question-9, :value 0, :text Totally Disagree}]
+[2019-05-03 23:42] Sam: [{:type Action, :gid user-defined-question-9, :question user-defined-question-9, :value 0, :text Totally Disagree}]
+[2019-05-03 23:42] Sam: Great, thanks!
+[2019-05-03 23:42] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-10, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 4. It is safe to take a risk on this team., :wording 4. It is safe to take a risk on this team., :required true, :qid user-defined-question-10, :context-var-name ?q}]}}
+[2019-05-03 23:43] A: [{:type Action, :gid user-defined-question-10, :question user-defined-question-10, :value 3, :text Agree}]
+[2019-05-03 23:43] Sam: [{:type Action, :gid user-defined-question-10, :question user-defined-question-10, :value 3, :text Agree}]
+[2019-05-03 23:43] Sam: Thank you very much.
+[2019-05-03 23:43] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-11, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 5. It is difficult to ask other members of this team for help., :wording 5. It is difficult to ask other members of this team for help., :required true, :qid user-defined-question-11, :context-var-name ?q}]}}
+[2019-05-03 23:43] A: [{:type Action, :gid user-defined-question-11, :question user-defined-question-11, :value 1, :text Disagree}]
+[2019-05-03 23:43] Sam: [{:type Action, :gid user-defined-question-11, :question user-defined-question-11, :value 1, :text Disagree}]
+[2019-05-03 23:43] Sam: Really appreciate your input.
+[2019-05-03 23:43] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-12, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 6. No one on this team would deliberately act in a way that undermines my efforts., :wording 6. No one on this team would deliberately act in a way that undermines my efforts., :required true, :qid user-defined-question-12, :context-var-name ?q}]}}
+[2019-05-03 23:43] A: [{:type Action, :gid user-defined-question-12, :question user-defined-question-12, :value 4, :text Totally Agree}]
+[2019-05-03 23:43] Sam: [{:type Action, :gid user-defined-question-12, :question user-defined-question-12, :value 4, :text Totally Agree}]
+[2019-05-03 23:43] Sam: Thanks.
+[2019-05-03 23:43] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-13, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 7. Working with members of this team, my unique skills and talents are valued and utilized., :wording 7. Working with members of this team, my unique skills and talents are valued and utilized., :required true, :qid user-defined-question-13, :context-var-name ?q}]}}
+[2019-05-03 23:43] A: [{:type Action, :gid user-defined-question-13, :question user-defined-question-13, :value 3, :text Agree}]
+[2019-05-03 23:43] Sam: [{:type Action, :gid user-defined-question-13, :question user-defined-question-13, :value 3, :text Agree}]
+[2019-05-03 23:43] Sam: Really appreciate your input.
+[2019-05-03 23:43] Sam: The second dimension is about Interpersonal Cohesiveness. This is a 3-item survey.
+[2019-05-03 23:43] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-14, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 1. Team members like each other, :wording 1. Team members like each other, :required true, :qid user-defined-question-14, :context-var-name ?q}]}}
+[2019-05-03 23:43] A: [{:type Action, :gid user-defined-question-14, :question user-defined-question-14, :value 2, :text Neutral}]
+[2019-05-03 23:43] Sam: [{:type Action, :gid user-defined-question-14, :question user-defined-question-14, :value 2, :text Neutral}]
+[2019-05-03 23:43] Sam: Thanks.
+[2019-05-03 23:43] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-15, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 2. Team members get along well. , :wording 2. Team members get along well. , :required true, :qid user-defined-question-15, :context-var-name ?q}]}}
+[2019-05-03 23:43] A: [{:type Action, :gid user-defined-question-15, :question user-defined-question-15, :value 3, :text Agree}]
+[2019-05-03 23:43] Sam: [{:type Action, :gid user-defined-question-15, :question user-defined-question-15, :value 3, :text Agree}]
+[2019-05-03 23:43] Sam: Great, thanks!
+[2019-05-03 23:43] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-16, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 3. Team members enjoy spending time together , :wording 3. Team members enjoy spending time together , :required true, :qid user-defined-question-16, :context-var-name ?q}]}}
+[2019-05-03 23:43] A: [{:type Action, :gid user-defined-question-16, :question user-defined-question-16, :value 2, :text Neutral}]
+[2019-05-03 23:43] Sam: [{:type Action, :gid user-defined-question-16, :question user-defined-question-16, :value 2, :text Neutral}]
+[2019-05-03 23:43] Sam: Thank you very much.
+[2019-05-03 23:44] Sam: The third dimension is about Task Commitment. This is a 3-item survey.
+[2019-05-03 23:44] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-17, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 1. Our team is united in trying to reach its goals for performance, :wording 1. Our team is united in trying to reach its goals for performance, :required true, :qid user-defined-question-17, :context-var-name ?q}]}}
+[2019-05-03 23:44] A: [{:type Action, :gid user-defined-question-17, :question user-defined-question-17, :value 3, :text Agree}]
+[2019-05-03 23:44] Sam: [{:type Action, :gid user-defined-question-17, :question user-defined-question-17, :value 3, :text Agree}]
+[2019-05-03 23:44] Sam: Thank you very much.
+[2019-05-03 23:44] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-18, :questions [{:kind :single-choice, :choices [{:text Totally Agree, :value 0} {:text Agree, :value 1} {:text Neutral, :value 2} {:text Disagree, :value 3} {:text Totally Disagree, :value 4}], :heading 2.  I'm unhappy with my team's level of commitment to the task, :wording 2.  I'm unhappy with my team's level of commitment to the task, :required true, :qid user-defined-question-18, :context-var-name ?q}]}}
+[2019-05-03 23:44] A: [{:type Action, :gid user-defined-question-18, :question user-defined-question-18, :value 4, :text Totally Disagree}]
+[2019-05-03 23:44] Sam: [{:type Action, :gid user-defined-question-18, :question user-defined-question-18, :value 4, :text Totally Disagree}]
+[2019-05-03 23:44] Sam: Really appreciate your input.
+[2019-05-03 23:44] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-19, :questions [{:kind :single-choice, :choices [{:text Totally Agree, :value 0} {:text Agree, :value 1} {:text Neutral, :value 2} {:text Disagree, :value 3} {:text Totally Disagree, :value 4}], :heading 3. Our team members have conflicting aspirations for the team's performance, :wording 3. Our team members have conflicting aspirations for the team's performance, :required true, :qid user-defined-question-19, :context-var-name ?q}]}}
+[2019-05-03 23:44] A: [{:type Action, :gid user-defined-question-19, :question user-defined-question-19, :value 4, :text Totally Disagree}]
+[2019-05-03 23:44] Sam: [{:type Action, :gid user-defined-question-19, :question user-defined-question-19, :value 4, :text Totally Disagree}]
+[2019-05-03 23:44] Sam: Thank you very much.
+[2019-05-03 23:44] Sam: The 4th dimension is about Task Attraction. This is a 3-item survey.
+[2019-05-03 23:44] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-20, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 1. Being part of the team allows team members to do enjoyable work. , :wording 1. Being part of the team allows team members to do enjoyable work. , :required true, :qid user-defined-question-20, :context-var-name ?q}]}}
+[2019-05-03 23:44] A: [{:type Action, :gid user-defined-question-20, :question user-defined-question-20, :value 2, :text Neutral}]
+[2019-05-03 23:44] Sam: [{:type Action, :gid user-defined-question-20, :question user-defined-question-20, :value 2, :text Neutral}]
+[2019-05-03 23:44] Sam: Appreciate it.
+[2019-05-03 23:44] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-35, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 2. Team members get to participate in enjoyable activities, :wording 2. Team members get to participate in enjoyable activities, :required true, :qid user-defined-question-35, :context-var-name ?q}]}}
+[2019-05-03 23:45] A: [{:type Action, :gid user-defined-question-35, :question user-defined-question-35, :value 2, :text Neutral}]
+[2019-05-03 23:45] Sam: [{:type Action, :gid user-defined-question-35, :question user-defined-question-35, :value 2, :text Neutral}]
+[2019-05-03 23:45] Sam: Got it.
+[2019-05-03 23:45] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-36, :questions [{:kind :single-choice, :choices [{:text Totally Disagree, :value 0} {:text Disagree, :value 1} {:text Neutral, :value 2} {:text Agree, :value 3} {:text Totally Agree, :value 4}], :heading 3. Team members like the work that the group does
+, :wording 3. Team members like the work that the group does
+, :required true, :qid user-defined-question-36, :context-var-name ?q}]}}
+[2019-05-03 23:45] A: [{:type Action, :gid user-defined-question-36, :question user-defined-question-36, :value 3, :text Agree}]
+[2019-05-03 23:45] Sam: [{:type Action, :gid user-defined-question-36, :question user-defined-question-36, :value 3, :text Agree}]
+[2019-05-03 23:45] Sam: Really appreciate your input.
+[2019-05-03 23:45] Sam: The 5th dimension is about Relationship Conflict. This is a 3-item survey.
+[2019-05-03 23:45] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-37, :questions [{:kind :single-choice, :choices [{:text 1 (not at all), :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading 1. How much relationship tension is there in your work group? , :wording 1. How much relationship tension is there in your work group? , :required true, :qid user-defined-question-37, :context-var-name ?q}]}}
+[2019-05-03 23:45] A: [{:type Action, :gid user-defined-question-37, :question user-defined-question-37, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:45] Sam: [{:type Action, :gid user-defined-question-37, :question user-defined-question-37, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:45] Sam: Thanks.
+[2019-05-03 23:45] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-38, :questions [{:kind :single-choice, :choices [{:text 1 (not at all), :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading 2. How often do people get angry while working in your group?, :wording 2. How often do people get angry while working in your group?, :required true, :qid user-defined-question-38, :context-var-name ?q}]}}
+[2019-05-03 23:45] A: [{:type Action, :gid user-defined-question-38, :question user-defined-question-38, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:45] Sam: [{:type Action, :gid user-defined-question-38, :question user-defined-question-38, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:45] Sam: Thank you very much.
+[2019-05-03 23:45] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-39, :questions [{:kind :single-choice, :choices [{:text 1 (not at all), :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading 3. How much emotional conflict is there in your work group?
+, :wording 3. How much emotional conflict is there in your work group?
+, :required true, :qid user-defined-question-39, :context-var-name ?q}]}}
+[2019-05-03 23:45] A: [{:type Action, :gid user-defined-question-39, :question user-defined-question-39, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:45] Sam: [{:type Action, :gid user-defined-question-39, :question user-defined-question-39, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:45] Sam: Really appreciate your input.
+[2019-05-03 23:45] Sam: The 6th dimension is about Group Task Conflict. This is a 3-item survey.
+[2019-05-03 23:45] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-40, :questions [{:kind :single-choice, :choices [{:text 1 (not at all), :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading 1. How much conflict of ideas is there in your work group?, :wording 1. How much conflict of ideas is there in your work group?, :required true, :qid user-defined-question-40, :context-var-name ?q}]}}
+[2019-05-03 23:46] A: [{:type Action, :gid user-defined-question-40, :question user-defined-question-40, :value 1, :text 2}]
+[2019-05-03 23:46] Sam: [{:type Action, :gid user-defined-question-40, :question user-defined-question-40, :value 1, :text 2}]
+[2019-05-03 23:46] Sam: Great, thanks!
+[2019-05-03 23:46] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-41, :questions [{:kind :single-choice, :choices [{:text 1 (not at all), :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading 2. How frequently do you have disagreements within your work group about the task of the project you are working on?, :wording 2. How frequently do you have disagreements within your work group about the task of the project you are working on?, :required true, :qid user-defined-question-41, :context-var-name ?q}]}}
+[2019-05-03 23:46] A: [{:type Action, :gid user-defined-question-41, :question user-defined-question-41, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:46] Sam: [{:type Action, :gid user-defined-question-41, :question user-defined-question-41, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:46] Sam: Got it.
+[2019-05-03 23:46] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-42, :questions [{:kind :single-choice, :choices [{:text 1 (not at all), :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading 3. How often do people in your work group have conflicting opinions about the project you are working on?, :wording 3. How often do people in your work group have conflicting opinions about the project you are working on?, :required true, :qid user-defined-question-42, :context-var-name ?q}]}}
+[2019-05-03 23:46] A: [{:type Action, :gid user-defined-question-42, :question user-defined-question-42, :value 1, :text 2}]
+[2019-05-03 23:46] Sam: [{:type Action, :gid user-defined-question-42, :question user-defined-question-42, :value 1, :text 2}]
+[2019-05-03 23:46] Sam: Got it.
+[2019-05-03 23:46] Sam: The last dimension is about Process Conflict. This is a 3-item survey.
+[2019-05-03 23:46] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-43, :questions [{:kind :single-choice, :choices [{:text 1 (not at all), :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading 1. How often are there disagreements about who should do what in your work group? , :wording 1. How often are there disagreements about who should do what in your work group? , :required true, :qid user-defined-question-43, :context-var-name ?q}]}}
+[2019-05-03 23:46] A: [{:type Action, :gid user-defined-question-43, :question user-defined-question-43, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:46] Sam: [{:type Action, :gid user-defined-question-43, :question user-defined-question-43, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:46] Sam: Got it.
+[2019-05-03 23:46] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-44, :questions [{:kind :single-choice, :choices [{:text 1 (not at all), :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading 2. How much conflict is there in your group about task responsibilities?, :wording 2. How much conflict is there in your group about task responsibilities?, :required true, :qid user-defined-question-44, :context-var-name ?q}]}}
+[2019-05-03 23:46] A: [{:type Action, :gid user-defined-question-44, :question user-defined-question-44, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:46] Sam: [{:type Action, :gid user-defined-question-44, :question user-defined-question-44, :value 0, :text 1 (not at all)}]
+[2019-05-03 23:46] Sam: Appreciate it.
+[2019-05-03 23:46] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-45, :questions [{:kind :single-choice, :choices [{:text 1 (not at all), :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading 3. How often do you disagree about resource allocation in your work group?
+, :wording 3. How often do you disagree about resource allocation in your work group?
+, :required true, :qid user-defined-question-45, :context-var-name ?q}]}}
+[2019-05-03 23:46] A: [{:type Action, :gid user-defined-question-45, :question user-defined-question-45, :value 1, :text 2}]
+[2019-05-03 23:46] Sam: [{:type Action, :gid user-defined-question-45, :question user-defined-question-45, :value 1, :text 2}]
+[2019-05-03 23:46] Sam: Thank you very much.
+[2019-05-03 23:46] Sam: Good job! You have finished the team perception survey! Let's talk more about yourself so that I could get to know you better.
+[2019-05-03 23:47] Sam: Everyone has a gift. What is the best thing about you? For example, your top talent, skill, or anything else you are most proud of?
+[2019-05-03 23:47] A: Dancer
+[2019-05-03 23:47] Sam: Hm,  mind saying a bit more?
+[2019-05-03 23:47] A: I am a dancer
+[2019-05-03 23:47] Sam: I always love to meet smart and talented humans like you because folks like you will make me even smarter :-)
+[2019-05-03 23:47] Sam: What is an example that demonstrates your top quality?
+[2019-05-03 23:48] A: I teach dance on a weekly basis
+[2019-05-03 23:48] Sam: Ok
+[2019-05-03 23:48] Sam: What is your biggest strength?
+[2019-05-03 23:48] A: Being able to communicate
+[2019-05-03 23:48] Sam: Could you tell me a bit more about it?
+[2019-05-03 23:48] A: It is always helpful, especially in a group, to be able to express what I think and talk about what we are doing
+[2019-05-03 23:48] Sam: If I hear you right, you have great leadership potential and people will follow you because of your leadership.
+[2019-05-03 23:48] Sam: Could you describe a concrete example where you applied your top strength?
+[2019-05-03 23:49] A: When working in a group project for a class, none of the group members initiated any contact. I took the initiative and opened a conversation about what we needed to get done.
+[2019-05-03 23:49] Sam: Ok
+[2019-05-03 23:50] Sam: What is your biggest weakness?
+[2019-05-03 23:50] A: Being stubborn
+[2019-05-03 23:50] Sam: If you don't mind, I'd like to hear a bit more.
+[2019-05-03 23:50] A: It is sometimes easy for me to get stuck in my own ideas and think that they are the right ones, instead of being open to hear everyone's ideas
+[2019-05-03 23:50] Sam: Understood.  No one is perfect. 
+[2019-05-03 23:50] Sam:  "Imperfection" really makes one special.
+[2019-05-03 23:50] Sam: Next, I hope to get some feedbacks from you towards our conversation. It's really important for me to improve. Thank you!
+[2019-05-03 23:50] Sam: Can you describe your impression of me (Sam) in terms of three keywords?
+[2019-05-03 23:51] A: automated curious neutral
+[2019-05-03 23:51] Sam: Anything else?
+[2019-05-03 23:51] A: No
+[2019-05-03 23:51] Sam: Understood. 
+[2019-05-03 23:51] Sam:  let's move on.
+[2019-05-03 23:51] Sam: Can you explain the reason why you choose these three keywords?
+[2019-05-03 23:52] A: It seems clear that you are an automated interviewer, you ask a lot of followup questions, and there are no significant personality traits that I can pinpoint
+[2019-05-03 23:52] Sam: Okay
+[2019-05-03 23:52] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-26, :questions [{:choices [{:text 1, :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :wording What do you think of me in terms of likeable? Please give a rating on a scale of 1 to 5, 1 being not at all and 5 being very much., :kind :single-choice, :required true, :heading What do you think of me in terms of likeable? Please give a rating on a scale of 1 to 5, 1 being not at
+all and 5 being very much., :qid user-defined-question-26, :context-var-name ?q}]}}
+[2019-05-03 23:52] A: [{:type Action, :gid user-defined-question-26, :question user-defined-question-26, :value 2, :text 3}]
+[2019-05-03 23:52] Sam: [{:type Action, :gid user-defined-question-26, :question user-defined-question-26, :value 2, :text 3}]
+[2019-05-03 23:52] Sam: Got it.
+[2019-05-03 23:52] A: [{:type Action, :gid user-defined-question-26, :question user-defined-question-26, :value 2, :text 3}]
+[2019-05-03 23:52] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-27, :questions [{:choices [{:text 1, :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :wording What do you think of me in terms of helpful? Please give a rating on a scale of 1 to 5, 1 being not at all and 5 being very much., :kind :single-choice, :required true, :heading What do you think of me in terms of helpful? Please give a rating on a scale of 1 to 5, 1 being not at
+all and 5 being very much., :qid user-defined-question-27, :context-var-name ?q}]}}
+[2019-05-03 23:52] A: [{:type Action, :gid user-defined-question-26, :question user-defined-question-26, :value 2, :text 3}]
+[2019-05-03 23:52] Sam: [{:type Action, :gid user-defined-question-26, :question user-defined-question-26, :value 2, :text 3}]
+[2019-05-03 23:52] Sam: Thank you very much.
+[2019-05-03 23:52] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-28, :questions [{:choices [{:text 1, :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :wording What do you think of me in terms of enjoyable? Please give a rating on a scale of 1 to 5, 1 being not at all and 5 being very much., :kind :single-choice, :required true, :heading What do you think of me in terms of enjoyable? Please give a rating on a scale of 1 to 5, 1 being not at
+all and 5 being very much., :qid user-defined-question-28, :context-var-name ?q}]}}
+[2019-05-03 23:53] A: [{:type Action, :gid user-defined-question-28, :question user-defined-question-28, :value 1, :text 2}]
+[2019-05-03 23:53] Sam: [{:type Action, :gid user-defined-question-28, :question user-defined-question-28, :value 1, :text 2}]
+[2019-05-03 23:53] Sam: Got it.
+[2019-05-03 23:53] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-32, :questions [{:kind :single-choice, :choices [{:text like a friend, :value 0} {:text like a counselor, :value 1}], :heading What do you think the perceived role of me is?, :wording What do you think the perceived role of me is?, :required true, :qid user-defined-question-32, :context-var-name ?q}]}}
+[2019-05-03 23:53] A: [{:type Action, :gid user-defined-question-32, :question user-defined-question-32, :value 1, :text like a counselor}]
+[2019-05-03 23:53] Sam: [{:type Action, :gid user-defined-question-32, :question user-defined-question-32, :value 1, :text like a counselor}]
+[2019-05-03 23:53] Sam: Great, thanks!
+[2019-05-03 23:53] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-33, :questions [{:kind :single-choice, :choices [{:text 1, :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading How much you
+trust me on a 5-point likert scale?, :wording How much you
+trust me on a 5-point likert scale?, :required true, :qid user-defined-question-33, :context-var-name ?q}]}}
+[2019-05-03 23:53] A: [{:type Action, :gid user-defined-question-33, :question user-defined-question-33, :value 0, :text 1}]
+[2019-05-03 23:53] Sam: [{:type Action, :gid user-defined-question-33, :question user-defined-question-33, :value 0, :text 1}]
+[2019-05-03 23:53] Sam: Got it.
+[2019-05-03 23:53] Sam: {:type form, :data {:type :form, :instruction , :gid user-defined-question-34, :questions [{:kind :single-choice, :choices [{:text 1, :value 0} {:text 2, :value 1} {:text 3, :value 2} {:text 4, :value 3} {:text 5, :value 4}], :heading How similar do you think you are to my personality?, :wording How similar do you think you are to my personality?, :required true, :qid user-defined-question-34, :context-var-name ?q}]}}
+[2019-05-03 23:53] A: [{:type Action, :gid user-defined-question-34, :question user-defined-question-34, :value 0, :text 1}]
+[2019-05-03 23:53] Sam: [{:type Action, :gid user-defined-question-34, :question user-defined-question-34, :value 0, :text 1}]
+[2019-05-03 23:53] Sam: Great, thanks!
+[2019-05-03 23:53] Sam: This is my last question - your answer may help me improve.
+[2019-05-03 23:53] Sam: {:type form, :data {:type :form, :instruction , :gid question-7, :questions [{:kind :single-choice, :choices [{:text Fill out a form, :value 0} {:text Chat with me, :value 1} {:text No preference, :value 2}], :heading What info collection method would you prefer?, :wording What would you prefer?, :required true, :qid question-7, :context-var-name ?q}]}}
+[2019-05-03 23:53] A: [{:type Action, :gid question-7, :question question-7, :value 0, :text Fill out a form}]
+[2019-05-03 23:53] Sam: [{:type Action, :gid question-7, :question question-7, :value 0, :text Fill out a form}]
+[2019-05-03 23:53] Sam: Great, thanks!
+[2019-05-03 23:53] Sam: Any last thoughts or questions about our chat?  Feel free to share any comments about me.. I won't be offended at all :-)
+[2019-05-03 23:53] A: No
+[2019-05-03 23:53] Sam: Understood.
+[2019-05-03 23:53] Sam: A, thank you again for your visit and I really appreciate your taking time to chat with me. 
+[2019-05-03 23:53] Sam:  Good bye!
