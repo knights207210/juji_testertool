@@ -17,7 +17,7 @@ program
 program.on('--help', function(){
     console.log('')
     console.log('Example:');
-    console.log('  juji_tester -f Mary https://juji.io/pre-chat/hanxu2017-3a27634/1 ./QA_dict.json');
+    console.log('  juji_tester -f Mary https://juji.io/pre-chat/hanxu2017-3a27634/23 ./QA_dict.json');
 });
 
 program.parse(process.argv);
@@ -113,6 +113,7 @@ function console_out(msg) {
             //This branch is for the case when a question is asked multiple times
             if (msg in question_count){
                 question_count[msg] += 1
+                count = question_count[msg]
                 if (count<dic[msg].length){
                     ws.send(util.format(chatFormat, chatInfo.participationId, dic[msg][count]))
                     console.log("User: "+dic[msg][count])
