@@ -11,17 +11,17 @@ This juji tester is used to repeat the jujibot chatting experiences so that chat
 
 4. add break point functionality
 
-5. some GUI-based design features (like multiple choice questions) -- but current API does not support it yet, however if we can use conf file itself, no problem
+5. some GUI-based design features (like multiple choice questions) -- but current API does not support it yet
 
 
 code reference: https://github.com/juji-io/cli-client
 
 # Usage:
 
-1a. run CSVtoDict_Converter.py to convert csv file (the csv of users' answers downloaded from juji platform) to json. (sample csv is provided)
+1a. run CSVtoDict_Converter.py to convert csv file (the csv of users' answers downloaded from juji platform) to json. (sample csv can be provided)
 
 or
 
-1b. run TranscripttoDict_Converter.py to convert original transcripts to json. (sample csv is provided)
+1b. run TranscripttoDict_Converter.py to convert original transcripts to json. (sample csv can be provided)
 
 2. run juji_tester.js
